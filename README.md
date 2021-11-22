@@ -2,6 +2,8 @@
 
 chia-startup is a simple bash script to start a CLI chia farmer at reboot on Linux.
 
+If you find this script helpful, please consider [making a donation](https://github.com/jbradach/chia-startup#donate).
+
 ## Installation
 
 Download `chia-startup.sh` and make it executable. 
@@ -25,9 +27,10 @@ This script assumes your chia directory is `~/chia-blockchain/`. If your directo
 ## Donate
 
 - **ADA:** addr1qxle5vwpqysv9g6te550w48xlh97cdumve00x72wkr494fhv0u3e6jqsa8r75sap6z67j37w75apxlycsnep8qq6qsaqjpvrwn
-- **Bitcoin:** bc1q2anh0s3ndh802a7yv3ad7dkts0ypmymll9r9yr
+- **XCH:** xch14nxl2jt9wut7wdhnweshf3q5nz5zlvudz6vmm6cpjy8r37kl78uq5j5aph
+- **BTC:** bc1q2anh0s3ndh802a7yv3ad7dkts0ypmymll9r9yr
 - **DOT:** 13gE4ZACqP9yzsjcioaCjS3ZQMh6nFmwAPanmE5BFvz6DfGg
-- **Ethereum:** 0x32a25120411DC0fa145Aec28a81f28c7E9A9339b
+- **ETH:** 0x32a25120411DC0fa145Aec28a81f28c7E9A9339b
 - **ERC-20 (BSC or ETH):** 0x21D0104196471c79609C419223D949073853cbE9
 
 ## Contributing
